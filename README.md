@@ -3,7 +3,7 @@
 A full-stack, machine learning-powered Network Intrusion Detection System designed to analyze network traffic and classify potential cyber threats in real-time. 
 
 ## 👨‍💻 Author
-* **Şeyma Adanalı**
+* **Şeyma Adanalı, Ahmet Eren Yavuz, Sena Yolcuoğlu**
 
 ## 🧠 System Architecture & Tech Stack
 
