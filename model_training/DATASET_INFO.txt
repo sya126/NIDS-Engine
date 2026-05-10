@@ -1,0 +1,9 @@
+Dataset Information
+
+The original dataset used for training this model is the NSL-KDD dataset. 
+Due to GitHub's file size limitations, the full CSV files are not uploaded here.
+
+You can download the original dataset from Kaggle:
+Link: https://www.kaggle.com/datasets/hassan06/nslkdd
+
+Note: For testing the NIDS Dashboard, please use the 'nids_perfect_demo.csv' file provided in this folder.

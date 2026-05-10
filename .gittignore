@@ -1,0 +1,14 @@
+# Frontend (React) için yoksayılacaklar
+frontend/node_modules/
+frontend/build/
+.env
+
+# Backend (Flask & Python) için yoksayılacaklar
+backend/__pycache__/
+backend/venv/
+backend/env/
+*.pyc
+
+# Mac/Windows Sistem Dosyaları
+.DS_Store
+Thumbs.db
