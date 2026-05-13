@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-socketio
+pandas
+numpy
+xgboost
+joblib
+scapy
+pyngrok
+eventlet
