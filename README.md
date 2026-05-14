@@ -30,15 +30,18 @@ Navigate to the `frontend` directory and start the React application:
 cd frontend
 npm install
 npm start
+```
 
 2. Backend Setup
-Navigate to the backend directory and start the Flask server:
-
+Navigate to the `backend` directory and start the Flask server:
+```bash
 cd backend
 pip install -r requirements.txt
-python app.py
+python nids_backend_api.py
 
-📊 Dataset & Model Training
+(Note: Make sure to update the ngrok.set_auth_token() in nids_backend_api.py with your own token.)
+```
+## 📊 Dataset & Model Training
 The model was trained using the benchmark NSL-KDD Dataset. Feature selection was applied using Tree-based Feature Importance to extract the top 20 most critical network parameters (e.g., count, serror_rate, dst_host_diff_srv_rate).
 
 Note: Due to GitHub file size limits, the full dataset is not included. A sample test dataset (nids_perfect_demo.csv) is provided in the model_training directory for dashboard demonstration.
