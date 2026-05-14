@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-2. Backend Setup
+### 2. Backend Setup
 Navigate to the `backend` directory and start the Flask server:
 ```bash
 cd backend
